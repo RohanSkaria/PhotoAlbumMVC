@@ -1,0 +1,4 @@
+# Sample input file for testing
+shape id=R1 type=rectangle x=10 y=10 width=50 height=100 red=255 green=0 blue=0
+shape id=O1 type=oval x=20 y=20 width=30 height=50 red=0 green=255 blue=0
+snapshot description="First snapshot"
